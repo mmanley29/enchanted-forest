@@ -1,0 +1,19 @@
+READ ME
+
+Game Title: Enchanted Forest: Defense of the Magic Tree
+
+In Enchanted Forest: Defense of the Magic Tree" the player 
+plays a wizard that has been tasked with defending the Magic Tree 
+found at the center of the map from an oncoming horde of Ghosts.
+The wizard has limited magic bolts, but they can be replenished 
+by picking up coins found around the map. The player loses when 
+the Ghosts either destroy the tree or kill the wizard.
+
+Requirements:
+arcade
+random
+math
+ 
+
+ Author: Tucker Hoppe
+ contact info: hop17005@byui.edu
